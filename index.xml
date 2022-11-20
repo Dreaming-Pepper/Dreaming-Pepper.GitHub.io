@@ -13,7 +13,9 @@
       <pubDate>Sat, 19 Nov 2022 23:19:33 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <description>This is my first post.
+I write some word in this line.
+Then, I post it.</description>
     </item>
     
   </channel>

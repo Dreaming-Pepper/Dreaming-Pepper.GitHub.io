@@ -5,18 +5,6 @@
     <link>http://example.org/</link>
     <description>Recent content on Pepper Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 23:19:33 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 19 Nov 2022 23:19:33 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>This is my first post.
-I write some word in this line.
-Then, I post it.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
